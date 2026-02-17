@@ -21,6 +21,9 @@ Download link: https://github.com/bingo-degrinhie/rblx-shaders-v1.4.1/releases/t
 3. In the effects list, click "Edit" to add this library
 4. Copy the reshade-shaders folder to your game directory (or specify the path to it in ReShade settings)
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c7844871-18d0-4856-8cf2-20918b7d8d33" />
+
+
 ## Usage 🎯
 Launch the game, press Home to open the ReShade panel, and select your preferred preset from the presets folder.
 
